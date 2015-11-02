@@ -2,4 +2,8 @@ idex
 
 line1 
 
+<<<<<<< HEAD
 line2 xxxx zz
+=======
+line2 xxxx trrrr
+>>>>>>> 425c14064b9ddc13648959d6257d28b6b311d8df
